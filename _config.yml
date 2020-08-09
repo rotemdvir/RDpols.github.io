@@ -26,7 +26,7 @@ navbar-links:
     - Google Scholar: "https://scholar.google.com"
     - TAMU Library: "http://library.tamu.edu"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://rotemdvir.wixsite.com/mysite"
 
 # --- Logo --- #
 
@@ -50,8 +50,8 @@ navbar-links:
 social-network-links:
   email: "rdvir@tamu.edu"
 #  facebook: deanattali
-#  github: daattali
-  twitter: daattali
+  github: rotemdvir
+#  twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -74,11 +74,11 @@ social-network-links:
 # --- General options --- #
 
 # Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
+#share-links-active:
+#  twitter: true
+#  facebook: true
+#  linkedin: true
+#  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
