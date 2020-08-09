@@ -1,10 +1,19 @@
+# --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
+url: "https://RDpols318.github.io/"
+baseurl: ""
+
 # --- Basic options --- #
 
 # Name of website
 title: POLS 318: Theories of IR
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Website for all course material
 
 # Your name to show in the footer
 author: Some Person
