@@ -7,15 +7,13 @@
 #url: "https://rotemdvir.github.io/"
 #baseurl: ""
 
-theme: jekyll-theme-minimal
-
 # --- Basic options --- #
 
 # Name of website
 title: "Theories of IR"
 
 # Short description of your site
-description: Website for all course material
+#description: Website for all course material
 
 # Your name to show in the footer
 #author: Some Person
