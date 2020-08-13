@@ -21,7 +21,7 @@ description: Website for all course material
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Lectures: "lectures"
+  Lectures: "Lectures"
   Resources:
     - Google Scholar: "https://scholar.google.com"
     - TAMU Library: "http://library.tamu.edu"
